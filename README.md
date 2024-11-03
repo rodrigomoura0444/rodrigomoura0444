@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @rodrigomoura0444
-- 👀 I’m interested in software 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hello, I'm Rodrigo Moura (@rodrigomoura0444)
 
-<!---
-rodrigomoura0444/rodrigomoura0444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+😄 Pronouns
+He/Him
+
+⚡ Fun Fact
+When I’m not coding, I enjoy learning about astronomy .
