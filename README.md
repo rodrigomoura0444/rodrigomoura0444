@@ -1,4 +1,4 @@
-👋 Hello, I'm Rodrigo Moura (@rodrigomoura0444)
+👋 HELLO, I'M RODRIGO MOURA (@RODRIGOMOURA0444)
 
 😄 Pronouns
 He/Him
