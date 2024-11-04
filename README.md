@@ -18,6 +18,11 @@ I’m a passionate **Software Engineer** focused on building scalable and effici
 
 Here’s a rundown of my key skills and tools I work with daily:
 
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+
 **Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
