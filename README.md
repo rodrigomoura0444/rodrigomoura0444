@@ -47,6 +47,13 @@ Here’s a rundown of my key skills and tools I work with daily:
 </p>
 
 ---
+### 📈 Contribution Graph
+
+<p align="center">
+  <!-- GitHub Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RODRIGOMOURA0444&bg_color=000000&color=00ff00&line=ff00ff&point=00ffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
 
 
 
