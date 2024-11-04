@@ -52,20 +52,6 @@ Here’s a rundown of my key skills and tools I work with daily:
 
 
 
-
-
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RODRIGOMOURA0444&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RODRIGOMOURA0444&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGOMOURA0444&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-
 ## 🌌 Fun Fact
 
 When I’m not coding, I'm often stargazing or exploring the mysteries of the universe. If you love talking about astronomy, I'm all ears!
