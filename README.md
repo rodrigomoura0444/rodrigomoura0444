@@ -33,6 +33,28 @@ Here’s a rundown of my key skills and tools I work with daily:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+
+
+## 🚀 GitHub Analytics
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RODRIGOMOURA0444&show_icons=true&theme=tokyonight&icon_color=00ffff&text_color=00ff00&title_color=ff00ff&bg_color=000000" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RODRIGOMOURA0444&theme=highcontrast&ring=ff00ff&fire=00ff00&sideNums=00ffff" alt="GitHub Streak" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGOMOURA0444&layout=compact&theme=tokyonight&text_color=00ff00&title_color=ff00ff&bg_color=000000" alt="Top Languages" />
+</p>
+
+---
+
+
+
+
+
+
 ## 📊 GitHub Analytics
 
 <p align="center">
