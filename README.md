@@ -54,6 +54,6 @@ When I’m not coding, I'm often stargazing or exploring the mysteries of the un
 
 - **GitHub:** [@RODRIGOMOURA0444](https://github.com/RODRIGOMOURA0444)
 - **LinkedIn:** [Rodrigo Moura]([https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/rodrigo-moura-9692562b4/))
-- **Email:** [your_email@example.com](mailto:rodrigo.fmoura04@gmail.com)
+- **Email:** [rodrigo.fmoura04@gmail.com](mailto:)
 
 Thanks for stopping by! Feel free to reach out if you'd like to connect, discuss coding, or
